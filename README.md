@@ -1,4 +1,4 @@
-# Clean Airbnb Dataset using Python
+# Cleaning Airbnb Dataset using Python
 `listings` dataset is donwloaded from [Inside Airbnb](https://insideairbnb.com/get-the-data/). The purpose of data cleaning is to filter, patch, and curate data in order to make it ready for analysis use.
 
 I will use Jupyter Notebook to host this cleaning work. For details of Python code used, please view python file which is also included in this repo.
